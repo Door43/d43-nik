@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nik:home|Door43 (nik)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nik|d43-nik repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nik/archive/master.zip|d43-nik.zip]]
+
+**Recent Changes**
+{{changes>ns = nik}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nik|Ethnologue data]]
+
